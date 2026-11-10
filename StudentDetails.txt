@@ -1,22 +1,11 @@
-22201010
-Shakin
-22201010
-Mr Ahmed
-Mrs Ahmed
-Mirpur Dhaka
-B-(ve)
-2015-05-09
-019282828282
-shakin@gmail.com
-Pharmacy
-22201001
-Taibur
-22201001
-Mr khan
-Mrs Khan
-Farmgate Dhaka
+21201128
+Yeakin Iqra
+21201128
+Mr. Iqra
+Mrs. Iqra
+Mhdpur, Dhaka
 A-(ve)
-2019-05-18
-012272727272
-taibur@gmail.com
+2001-09-14
+01922222222
+iqra@uap-bd.edu
 CSE
